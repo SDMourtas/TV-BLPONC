@@ -12,8 +12,8 @@
 %   Main paper: T.E. Simos, S.D.Mourtas, V.N.Katsikis,              %
 %               "Time-Varying Black-Litterman Portfolio Optimization%
 %               under Nonlinear Constraints via Neuronets and BAS   %
-%               Algorithm," (submitted)                             %
-%                                                                   %
+%               Algorithm," Applied Soft Computing 112, 107767      %
+%               (2021)                                              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
