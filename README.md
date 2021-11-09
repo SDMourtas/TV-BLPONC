@@ -6,7 +6,7 @@ The purpose of this package is to solve online the TV-BLPONC problem by using a 
 *	X.S. Yang, Nature-inspired optimization algorithms. Elsevier, 2014.
 *	K. Deb, Optimization for Engineering Design: Algorithms and Examples. PHI, second ed., July 2013.
 *	X. Jiang and S. Li, BAS: Beetle Antennae Search Algorithm for Optimization Problems," arXiv preprint, vol. abs/1710.10724, 2017.
-*	Li, Shimin, et al. “Slime Mould Algorithm: A New Method for Stochastic Optimization.” Future Generation Computer Systems, vol. 111, Elsevier BV, Oct. 2020, pp. 300–23, doi:10.1016/j.future.2020.03.055.
+*	Li, Shimin, et al. “Slime Mould Algorithm: A New Method for Stochastic Optimization.” Future Generation Computer Systems, vol. 111, Elsevier BV, Oct. 2020, pp. 300–23, doi:10.1016/j.future.2020.03.055. \
 Also, the package includes the following three Matlab functions for comparison purposes:
 *	Yarpiz (2020). Artificial Bee Colony (ABC) (https://www.mathworks.com/matlabcentral/fileexchange/52966-artificial-bee-colony-abc-in-matlab), MATLAB Central File Exchange. Retrieved December 30, 2020.
 *	Yarpiz (2020). Differential Evolution (DE) (https://www.mathworks.com/matlabcentral/fileexchange/52897-differential-evolution-de), MATLAB Central File Exchange. Retrieved December 8, 2020.
@@ -34,12 +34,12 @@ Note that these functions have been appropriately modified for the TV-BLPONC pro
 
 # Installation
 *	Unzip the file you just downloaded and copy the TV-BLPONC directory to a location,e.g.,/my-directory/
-*	Run Matlab/ Octave, Go to /my-directory/TV-BLPONC/ at the command prompt
+*	Run Matlab/Octave, Go to /my-directory/TV-BLPONC/ at the command prompt
 *	run 'Main_TVBLPONC' (Matlab/Octave)
 
 # Results
 After running the Main_TVBLPONC.m file, the package outputs are the following:
-*	The optimal portfolio of TV- BLPONC problem created by BAS, ABC, DE and SMA.
+*	The optimal portfolio of TV-BLPONC problem created by BAS, ABC, DE and SMA.
 *	The time consumptions of BAS, ABC, DE and SMA.
 *	The graphic illustration of the average price of the objected function along with the optimal portfolios expected return, variance and transaction cost.
 
